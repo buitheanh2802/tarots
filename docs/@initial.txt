@@ -1,0 +1,8 @@
+Tarot gồm 2 loại ẩn: ẩn chính và ẩn phụ
+ ẩn phụ gồm 4 nguyên tố: gậy, kiếm, ly, và xu.
+  - xuất hiện 1 trong 4 nguyên tố gọi là ẩn phụ
+ ẩn chính là những lá còn lại. không gồm 1 trong 4 nguyê tố trên.
+ có 22 lá ẩn chính.
+
+ ẩn chính thường nói về những cái liên quan đến số phận, khó thay đổi được nghĩa là các
+ vị buộc mình phải xảy ra điều đó để có thể rút ra bài học nào đó cho bản thân.
